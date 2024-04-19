@@ -1,0 +1,30 @@
+.header img {
+  background-color: grey;
+  padding: 20px 10px;
+  display: block;
+  max-width: 100%;
+}
+
+.nav {
+  display: flex;
+}
+
+.nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+
+.nav li {
+  margin: 0 1rem;
+}
+
+.nav a {
+  color: grey;
+  text-decoration: none;
+}
+.header{
+  justify-content: center;
+  display: flex;
+}
