@@ -28,3 +28,29 @@
   justify-content: center;
   display: flex;
 }
+#power{
+  color: gold;
+  background-color: black;
+}
+
+
+#flavors{
+  color: black;
+  background-color: gold;
+}
+
+
+#customerComments{
+  color:gold;
+  background-color: black;
+}
+
+.my-4{
+  padding-top: 40px;
+  margin-top: -20px;
+  padding-bottom: 40px;
+}
+p{
+  font-size: 20px;
+  font-family:;
+}
